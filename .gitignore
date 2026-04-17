@@ -10,4 +10,7 @@ wheels/
 .venv
 news-hub.code-workspace
 
+# Environment variables
+.env
+
 /scratch/*
